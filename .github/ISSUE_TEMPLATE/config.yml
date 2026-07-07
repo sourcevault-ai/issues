@@ -1,1 +1,9 @@
+blank_issues_enabled: false
+contact_links:
+  - name: 💬 Install help & troubleshooting (Discord)
+    url: https://discord.gg/tq88MVQjSn
+    about: The fastest way to get help — post in the #install-help or #troubleshooting forums.
+  - name: 🔒 Security reports, licensing & billing (email)
+    url: https://sourcevault.ai/support
+    about: Email support@sourcevault.ai — never post license keys, tokens, or vulnerabilities publicly.
 
